@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jamesdalleva-bochain/cs_projects/cpp_random_forest",
+      "program": "/Users/jamesdalleva-bochain/cs_projects/cpp_random_forest/build/Debug/outDebug"
+    }
+  ]
+}
